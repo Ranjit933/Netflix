@@ -1,9 +1,9 @@
-# Netflix
+# Netflix For Data Analysis using Python and Sql server 
 
 Netflix Data Analysis and Recommendation System
-This project involves analyzing Netflix data and developing a recommendation system using Python. The main objectives are to explore trends in Netflix content, build a recommendation engine, and create an interactive dashboard for dynamic data exploration.
+# This project involves analyzing Netflix data and developing a recommendation system using Python. The main objectives are to explore trends in Netflix content, build a recommendation engine, and create an interactive dashboard for dynamic data exploration.
 
-Key Features:
+# Key Features:
 Data Collection and Preparation:
 
 Collected and cleaned data from Netflix’s public datasets.
