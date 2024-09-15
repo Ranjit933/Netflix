@@ -25,9 +25,9 @@ Interactive Dashboard:
 Created an interactive dashboard using Plotly Dash or Streamlit for users to explore data insights dynamically.
 Incorporated features such as search functionality, filters, and dynamic visualizations.
 Technologies Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Plotly Dash/Streamlit
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly Dash/Streamlit
